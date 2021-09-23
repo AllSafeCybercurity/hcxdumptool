@@ -1,4 +1,4 @@
-hcxdumptool
+TEST hcxdumptool
 ==============
 
 Small tool to capture packets from wlan devices and detect weak point within own WiFi networks.
